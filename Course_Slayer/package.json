@@ -1,0 +1,15 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanjiro",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
