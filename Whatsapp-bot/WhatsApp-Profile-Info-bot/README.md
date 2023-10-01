@@ -29,7 +29,7 @@ Automate the process of retrieving profile information of an individual on Whats
 2. Run the script:
 
     ```bash
-    python Whatsapp.py
+    python profile.py
     ```
 3. A Chrome browser window will open, displaying WhatsApp Web.
 4. Scan the QR code using your phone to log in to WhatsApp Web.
