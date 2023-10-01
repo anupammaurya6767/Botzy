@@ -66,7 +66,6 @@ A simple WhatsApp poll bot built with Python and the Twilio API.
 
 Certainly! Here's a section you can add to your README in Markdown code to explain how to run your WhatsApp poll bot using Docker:
 
-```markdown
 ## Running with Docker
 
 To run this WhatsApp poll bot using Docker, follow these steps:
