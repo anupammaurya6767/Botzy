@@ -64,6 +64,48 @@ A simple WhatsApp poll bot built with Python and the Twilio API.
 
 4. Respond to the bot's prompts to configure and send polls to WhatsApp users.
 
+Certainly! Here's a section you can add to your README in Markdown code to explain how to run your WhatsApp poll bot using Docker:
+
+```markdown
+## Running with Docker
+
+To run this WhatsApp poll bot using Docker, follow these steps:
+
+1. **Build the Docker Image:**
+
+   Open a terminal and navigate to the directory containing the Dockerfile and your project files. Build the Docker image by running the following command:
+
+   ```bash
+   docker build -t WhatsApp-Poll-Bot .
+   ```
+
+   Replace `WhatsApp-Poll-Bot` with your desired image name.
+
+2. **Run the Docker Container:**
+
+   Once the Docker image is built, you can run the Docker container using the following command:
+
+   ```bash
+   docker run -p 5000:5000 WhatsApp-Poll-Bot
+   ```
+
+   This command will start the WhatsApp poll bot inside a Docker container, and it will be accessible on port 5000 of your server.
+
+3. **Configure Twilio:**
+
+   Configure your Twilio WhatsApp number to use the public IP address or domain of your server for incoming messages and webhooks. Ensure that your bot's endpoint is set to `http://your-server-ip:5000/` or `http://your-domain:5000/` depending on your server setup.
+
+4. **Access the Bot:**
+
+   You can now access and interact with your WhatsApp poll bot by sending messages to your Twilio WhatsApp number.
+
+**Note:** Make sure to replace `WhatsApp-Poll-Bot` with your actual Docker image name if you used a different name during the image build.
+
+Enjoy using your WhatsApp poll bot with Docker!
+```
+
+You can add this section to your existing README to provide clear instructions on how to run your bot using Docker.
+```
 ## Notes
 
 - This is a basic example of a WhatsApp poll bot. You can extend it to add more features, such as storing and analyzing poll results.
