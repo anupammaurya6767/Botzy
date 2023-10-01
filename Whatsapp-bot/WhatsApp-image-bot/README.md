@@ -1,4 +1,4 @@
-# Whatsapp Image Bot
+# Image Bot
 
 This is a script that generates an image based on the incoming message received via Twilio's WhatsApp API. The generated image contains the text sent by the user. The image is then sent back to the user as a response.
 
