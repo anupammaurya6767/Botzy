@@ -1,4 +1,4 @@
-# 🤖 Get-Profile-Information Bot
+# 🤖 Profile-Information Bot
 
 Automate the process of retrieving profile information of an individual on WhatsApp using this Python script. This script utilizes the Selenium library to interact with WhatsApp Web and extract user information.
 
