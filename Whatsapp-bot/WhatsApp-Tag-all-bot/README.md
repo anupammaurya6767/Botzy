@@ -29,16 +29,16 @@ Automate the process of tagging all members of a WhatsApp group using this Pytho
 2. Run the script:
 
     ```bash
-    python tagall-bot.py
+    python tagall.py
     ```
 3. A Chrome browser window will open, displaying WhatsApp Web.
 4. Scan the QR code using your phone to log in to WhatsApp Web.
 5. After successful login, the script will wait for 10 seconds to load the page.
-6. Provide the name of the group you want to send the message to by modifying the `group_name` variable in the `tagall-bot.py` file.
+6. Provide the name of the group you want to send the message to by modifying the `group_name` variable in the `tagall.py` file.
 7. Run the script again.
 
 ## 📝 Notes
 
 - This script uses the Chrome WebDriver for Selenium automation. Ensure that the `chromedriver` executable matches your Chrome browser version and is located in the project directory.
 - The script waits for 10 seconds to ensure proper loading of the WhatsApp Web page before interaction. You can modify this delay if necessary.
-- The provided code sends the message "@everyone" to the specified group. Modify the `message_box.send_keys()` line in the `tagall-bot.py` file to change the message content.
+- The provided code sends the message "@everyone" to the specified group. Modify the `message_box.send_keys()` line in the `tagall.py` file to change the message content.
