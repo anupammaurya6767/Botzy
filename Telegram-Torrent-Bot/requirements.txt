@@ -1,0 +1,2 @@
+python-telegram-bot==24.5
+python-libtorrent==1.2.6
