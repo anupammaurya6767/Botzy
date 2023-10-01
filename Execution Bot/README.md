@@ -2,7 +2,7 @@
 
 This Telegram bot allows you to execute Python code snippets directly within a Telegram group. It provides a convenient way to run Python code and receive the output within the Telegram chat interface.
 
-![Telegram Python Code Execution Bot](https://github.com/anupammaurya6767/Bot-Collection/blob/main/tg_bot/images/main.png)
+![Telegram Python Code Execution Bot](https://github.com/anupammaurya6767/Botzy/blob/main/Execution%20Bot/images/main.png)
 
 ## Setup Instructions
 
@@ -59,7 +59,7 @@ The bot will execute the code and reply with the output within the Telegram chat
 ## Screenshots
 Here are a few screenshots of the Telegram Python Code Execution Bot in action:
 
-![Telegram Python Code Execution Bot](https://github.com/anupammaurya6767/Bot-Collection/blob/main/tg_bot/images/screen.png)
+![Telegram Python Code Execution Bot](https://github.com/anupammaurya6767/Botzy/blob/main/Execution%20Bot/images/screen.png)
 
 ### Troubleshooting
 If you encounter any issues while setting up or running the bot, try the following troubleshooting steps:
