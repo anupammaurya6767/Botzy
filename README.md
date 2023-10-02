@@ -9,7 +9,7 @@
 
 
 # 🌟 Botzy 🌟
-<img align='right' src="https://github.com/anupammaurya6767/Botzy/blob/main/assets/tan1.jpg" alt="Tanjiro-sama" width="300" height="400">
+<img align='right' src="https://github.com/anupammaurya6767/Botzy/blob/main/assets/tan1-removebg.jpg" alt="Tanjiro-sama" width="300" height="400">
 Welcome to Botzy, a repository containing a collection of various bots for different purposes. This repository serves as a hub for various bots that can perform a wide range of tasks, from chatbots to automation bots and more. Whether you're looking to explore, use, or contribute to bots, you're in the right place.🤖
 
 
